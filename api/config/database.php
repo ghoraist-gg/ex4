@@ -11,7 +11,7 @@ class Database {
     public $conn;
 
     private $gcp_project_id;
-    private $username_secret;
+    private $username_secret; //secret name
     private $password_secret;
 
     public function __construct() {
