@@ -156,3 +156,4 @@ Calling `removeData(index)` on your Chart instance will remove segment at that p
 myDoughnutChart.removeData();
 // Other segments will update to fill the empty space left.
 ```
+

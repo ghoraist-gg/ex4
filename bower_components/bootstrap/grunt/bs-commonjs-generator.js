@@ -28,3 +28,4 @@ module.exports = function generateCommonJSModule(grunt, srcFiles, destFilepath) 
   }
   grunt.log.writeln('File ' + destFilepath.cyan + ' created.');
 };
+

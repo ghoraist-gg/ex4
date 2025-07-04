@@ -32,3 +32,4 @@ define( [
 			jQuery.css( elem, "display" ) === "none";
 	};
 } );
+

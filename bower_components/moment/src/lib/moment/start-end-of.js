@@ -57,3 +57,4 @@ export function endOf (units) {
 
     return this.startOf(units).add(1, (units === 'isoWeek' ? 'week' : units)).subtract(1, 'ms');
 }
+

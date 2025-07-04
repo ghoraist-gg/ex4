@@ -5,3 +5,4 @@ define( [
 
 	return new RegExp( cssExpand.join( "|" ), "i" );
 } );
+

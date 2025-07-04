@@ -1320,3 +1320,4 @@
   $.fn.colorpicker.constructor = Colorpicker;
 
 }));
+

@@ -209,3 +209,4 @@ describe 'Morris.Line', ->
     it 'should have circle with configured size', ->
       chart = Morris.Line $.extend {}, defaults
       $('#graph').find("circle[r='5']").size().should.equal 2
+

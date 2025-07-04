@@ -156,3 +156,4 @@ jvm.DataSeries.prototype = {
     }
   }
 };
+

@@ -60,3 +60,4 @@ export function format (inputString) {
     var output = formatMoment(this, inputString);
     return this.localeData().postformat(output);
 }
+

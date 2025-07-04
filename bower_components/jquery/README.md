@@ -65,3 +65,4 @@ require("jsdom").env("", function(err, window) {
 	var $ = require("jquery")(window);
 });
 ```
+

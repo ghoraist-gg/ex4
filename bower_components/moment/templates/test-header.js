@@ -4,3 +4,4 @@
    typeof define === 'function' && define.amd ? define(['../../moment'], factory) :
    factory(global.moment)
 }(this, (function (moment) { 'use strict';
+

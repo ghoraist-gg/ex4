@@ -21,3 +21,4 @@ module.exports.register = function (Handlebars, options) {
     return '<div class="example-code">' + codeStr + '</div>';
   });
 };
+

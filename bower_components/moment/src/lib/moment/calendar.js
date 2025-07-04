@@ -24,3 +24,4 @@ export function calendar (time, formats) {
 
     return this.format(output || this.localeData().calendar(format, this, createLocal(now)));
 }
+

@@ -652,3 +652,4 @@ Closes #247
 ==================
 
   * Initial release
+

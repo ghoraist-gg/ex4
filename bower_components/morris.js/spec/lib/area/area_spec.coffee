@@ -58,3 +58,4 @@ describe 'Morris.Area', ->
       chart = Morris.Area $.extend {}, defaults
       $('#graph').find("path[fill='#0b62a4']").size().should.equal 0
       $('#graph').find("path[fill='#7a92a3']").size().should.equal 0
+

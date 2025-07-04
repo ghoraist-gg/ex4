@@ -145,3 +145,4 @@ function dayOfYearFromWeekInfo(config) {
         config._dayOfYear = temp.dayOfYear;
     }
 }
+

@@ -2638,3 +2638,4 @@ declare module 'fullcalendar' {
 	import main = require('fullcalendar/src/main');
 	export = main;
 }
+

@@ -674,3 +674,4 @@ Color.prototype = {
 /* test-code */
 module.exports = Color;
 /* end-test-code */
+

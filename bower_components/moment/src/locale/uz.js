@@ -48,3 +48,4 @@ export default moment.defineLocale('uz', {
     }
 });
 
+

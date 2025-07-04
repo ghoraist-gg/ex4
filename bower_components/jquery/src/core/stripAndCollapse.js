@@ -12,3 +12,4 @@ define( [
 
 	return stripAndCollapse;
 } );
+

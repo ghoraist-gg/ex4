@@ -42,3 +42,4 @@ module.exports = function generateRawFilesJs(grunt, banner) {
   }
   grunt.log.writeln('File ' + rawFilesJs.cyan + ' created.');
 };
+

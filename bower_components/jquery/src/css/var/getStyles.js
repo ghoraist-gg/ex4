@@ -15,3 +15,4 @@ define( function() {
 		return view.getComputedStyle( elem );
 	};
 } );
+

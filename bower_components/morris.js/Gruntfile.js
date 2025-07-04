@@ -88,3 +88,4 @@ module.exports = function (grunt) {
 
   grunt.registerTask('default', ['concat', 'coffee', 'less', 'uglify', 'mocha', 'shell:visual_spec']);
 };
+

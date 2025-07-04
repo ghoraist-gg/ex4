@@ -17,3 +17,4 @@ for live examples and documentation.
 Released under the New BSD License
 
 (c) Splunk, Inc 2012
+

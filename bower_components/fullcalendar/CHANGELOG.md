@@ -1310,3 +1310,4 @@ v1.1 (2009-05-10)
 	- for IE6 resizing bug
 	- for THEAD and TBODY (in 1.0, just used TBODY, restructured in 1.1)
 	- IF UPGRADING FROM FULLCALENDAR 1.0, YOU MUST UPGRADE FULLCALENDAR.CSS
+

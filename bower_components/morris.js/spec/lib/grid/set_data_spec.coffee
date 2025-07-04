@@ -206,3 +206,4 @@ describe 'Morris.Grid#setData', ->
       ykeys: ['y']
       labels: ['y']
     line.grid.should == [0, 1000, 2000, 3000, 4000]
+

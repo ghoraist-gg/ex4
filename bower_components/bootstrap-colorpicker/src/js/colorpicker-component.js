@@ -559,3 +559,4 @@ $.fn.colorpicker = function(option) {
 };
 
 $.fn.colorpicker.constructor = Colorpicker;
+

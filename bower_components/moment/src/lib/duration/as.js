@@ -59,3 +59,4 @@ export var asDays         = makeAs('d');
 export var asWeeks        = makeAs('w');
 export var asMonths       = makeAs('M');
 export var asYears        = makeAs('y');
+

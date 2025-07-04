@@ -22,3 +22,4 @@ If you want to contribute to the source code or report issues and suggestions, p
 
 ## Credits
 Originally written by [Stefan Petre](http://www.eyecon.ro/)
+

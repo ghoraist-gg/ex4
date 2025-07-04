@@ -23,3 +23,4 @@ export var years        = makeGetter('years');
 export function weeks () {
     return absFloor(this.days() / 7);
 }
+

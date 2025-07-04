@@ -11,3 +11,4 @@ define( [
 // Return jQuery for attributes-only inclusion
 return jQuery;
 } );
+

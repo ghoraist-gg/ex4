@@ -21,3 +21,4 @@ export function longDateFormat (key) {
 
     return this._longDateFormat[key];
 }
+

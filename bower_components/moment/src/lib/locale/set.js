@@ -47,3 +47,4 @@ export function mergeConfigs(parentConfig, childConfig) {
     }
     return res;
 }
+

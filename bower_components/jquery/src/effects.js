@@ -700,3 +700,4 @@ jQuery.fx.speeds = {
 
 return jQuery;
 } );
+

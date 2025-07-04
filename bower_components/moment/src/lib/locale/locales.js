@@ -195,3 +195,4 @@ export function getLocale (key) {
 export function listLocales() {
     return keys(locales);
 }
+

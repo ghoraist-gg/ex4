@@ -183,3 +183,4 @@ gulp build --types=Line,Radar,Bar
 ```
 
 This will output to the `/custom` directory, and write two files, Chart.js, and Chart.min.js with only those chart types included.
+

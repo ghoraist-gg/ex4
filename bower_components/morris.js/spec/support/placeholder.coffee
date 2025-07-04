@@ -4,3 +4,4 @@ beforeEach ->
 
 afterEach ->
   $('#test').empty()
+

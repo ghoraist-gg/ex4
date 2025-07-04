@@ -36,3 +36,4 @@ describe '#commas', ->
 
     # null
     Morris.commas(null).should.equal('-')
+

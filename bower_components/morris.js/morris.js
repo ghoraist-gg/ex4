@@ -1890,3 +1890,4 @@ Licensed under the BSD-2-Clause License.
   })(Morris.EventEmitter);
 
 }).call(this);
+

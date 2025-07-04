@@ -5,3 +5,4 @@ export default function zeroFill(number, targetLength, forceSign) {
     return (sign ? (forceSign ? '+' : '') : '-') +
         Math.pow(10, Math.max(0, zerosToFill)).toString().substr(1) + absNumber;
 }
+

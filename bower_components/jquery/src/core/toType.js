@@ -18,3 +18,4 @@ function toType( obj ) {
 
 return toType;
 } );
+

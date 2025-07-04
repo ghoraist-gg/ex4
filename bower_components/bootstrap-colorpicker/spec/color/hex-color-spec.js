@@ -9,3 +9,4 @@ it("should return color formatted", function(){
   var color = new Color('aabbcc');
   expect(color.toHex()).toEqual("aabbcc");
 });
+

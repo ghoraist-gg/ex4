@@ -40,3 +40,4 @@ module.exports = function generateGlyphiconsData(grunt) {
   }
   grunt.log.writeln('File ' + glyphiconsYml.cyan + ' created.');
 };
+

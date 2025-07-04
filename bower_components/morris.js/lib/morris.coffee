@@ -41,3 +41,4 @@ Morris.commas = (num) ->
 # @example
 #   Morris.pad2(1) -> '01'
 Morris.pad2 = (number) -> (if number < 10 then '0' else '') + number
+

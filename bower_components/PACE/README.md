@@ -25,3 +25,4 @@ If you use AMD or Browserify, require pace.js and call `pace.start()` as early i
   <link href="/pace/themes/pace-theme-barber-shop.css" rel="stylesheet" />
 </head>
 ```
+

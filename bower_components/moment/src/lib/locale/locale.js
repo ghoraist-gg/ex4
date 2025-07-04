@@ -37,3 +37,4 @@ hooks.lang = deprecate('moment.lang is deprecated. Use moment.locale instead.', 
 hooks.langData = deprecate('moment.langData is deprecated. Use moment.localeData instead.', getLocale);
 
 import './en';
+

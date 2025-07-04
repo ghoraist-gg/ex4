@@ -183,3 +183,4 @@ jvm.NumericScale.prototype = {
     return ticks;
   }
 };
+

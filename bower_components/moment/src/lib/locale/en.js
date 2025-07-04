@@ -13,3 +13,4 @@ getSetGlobalLocale('en', {
         return number + output;
     }
 });
+

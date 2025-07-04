@@ -11,3 +11,4 @@ export default function isObjectEmpty(obj) {
         return true;
     }
 }
+

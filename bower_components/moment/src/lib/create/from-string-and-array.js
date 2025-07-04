@@ -48,3 +48,4 @@ export function configFromStringAndArray(config) {
 
     extend(config, bestMoment || tempConfig);
 }
+

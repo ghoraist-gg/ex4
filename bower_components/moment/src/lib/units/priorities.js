@@ -14,3 +14,4 @@ export function getPrioritizedUnits(unitsObj) {
     });
     return units;
 }
+

@@ -42,3 +42,4 @@ class Morris.Hover
 
   hide: ->
     @el.hide()
+

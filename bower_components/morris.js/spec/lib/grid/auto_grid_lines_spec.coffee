@@ -23,3 +23,4 @@ describe 'Morris.Grid#autoGridLines', ->
 
   it 'should use integer intervals for intervals larger than 1', ->
     @subject(0, 9, 5).should.deep.equal [0, 3, 6, 9, 12]
+

@@ -105,3 +105,4 @@ function setWeekAll(weekYear, week, weekday, dow, doy) {
     this.date(date.getUTCDate());
     return this;
 }
+

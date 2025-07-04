@@ -571,3 +571,4 @@ paramsJson = json.loads(paramsJson)
 
 processor = Processor(paramsJson)
 processor.process()
+

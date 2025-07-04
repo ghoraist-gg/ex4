@@ -403,3 +403,4 @@ Morris.AUTO_LABEL_ORDER = [
   "30min", "15min", "10min", "5min", "minute",
   "30sec", "15sec", "10sec", "5sec", "second"
 ]
+

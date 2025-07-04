@@ -83,3 +83,4 @@ export function humanize (withSuffix) {
 
     return locale.postformat(output);
 }
+

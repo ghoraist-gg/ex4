@@ -147,3 +147,4 @@ Calling `removeData()` on your Chart instance will remove the first value for al
 myBarChart.removeData();
 // The chart will now animate and remove the first bar
 ```
+

@@ -34,3 +34,4 @@ describe 'Morris.Bar#colorFor', ->
       {x:0, y:3, label:'foo'},
       {index:1, key:'z', label:'Z'},
       'hover')
+

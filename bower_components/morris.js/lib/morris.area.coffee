@@ -64,3 +64,4 @@ class Morris.Area extends Morris.Line
       .attr('fill', fill)
       .attr('fill-opacity', @options.fillOpacity)
       .attr('stroke', 'none')
+

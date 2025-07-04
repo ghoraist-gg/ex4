@@ -62,3 +62,4 @@ describe "Morris.Hover", ->
       el.should.have.css('left', '100px')
       el.should.have.css('top', '90px')
       el.should.have.text('Hello, Everyone!')
+

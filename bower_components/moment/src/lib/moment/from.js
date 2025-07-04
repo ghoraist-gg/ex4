@@ -15,3 +15,4 @@ export function from (time, withoutSuffix) {
 export function fromNow (withoutSuffix) {
     return this.from(createLocal(), withoutSuffix);
 }
+

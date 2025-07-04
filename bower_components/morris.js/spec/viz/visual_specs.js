@@ -64,3 +64,4 @@ examples.def('stacked_bar', function () {
 });
 
 examples.run();
+

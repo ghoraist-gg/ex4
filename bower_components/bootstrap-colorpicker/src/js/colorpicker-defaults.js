@@ -63,3 +63,4 @@ var defaults = {
   customClass: null, // custom class added to the colorpicker element
   colorSelectors: null // custom color aliases
 };
+

@@ -53,3 +53,4 @@ export function deprecateSimple(name, msg) {
 
 hooks.suppressDeprecationWarnings = false;
 hooks.deprecationHandler = null;
+

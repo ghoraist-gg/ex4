@@ -31,3 +31,4 @@ export function addTimeToArrayFromToken(token, input, config) {
         tokens[token](input, config._a, config, token);
     }
 }
+

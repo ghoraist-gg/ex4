@@ -201,3 +201,4 @@ Chart.defaults.global.responsive = true;
 ```
 
 Now, every time we create a chart, `options.responsive` will be `true`.
+

@@ -297,3 +297,4 @@ paramsJson = json.loads(paramsJson)
 
 converter = Converter(paramsJson)
 converter.convert(paramsJson['output_file'])
+

@@ -3,3 +3,4 @@ define( function() {
 
 	return ( /^$|^module$|\/(?:java|ecma)script/i );
 } );
+

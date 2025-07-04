@@ -17,3 +17,4 @@ env:
   - JQUERY="~> 1.9.0" RAPHAEL="~> 2.1.0"
   - JQUERY="~> 2.0.0" RAPHAEL="~> 2.1.0"
   - JQUERY="~> 2.1.0" RAPHAEL="~> 2.1.0"
+

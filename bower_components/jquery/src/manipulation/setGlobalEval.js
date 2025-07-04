@@ -20,3 +20,4 @@ function setGlobalEval( elems, refElements ) {
 
 return setGlobalEval;
 } );
+

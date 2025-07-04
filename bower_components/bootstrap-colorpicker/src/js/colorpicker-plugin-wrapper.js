@@ -28,3 +28,4 @@
   //@colorpicker-defaults
   //@colorpicker-component
 }));
+

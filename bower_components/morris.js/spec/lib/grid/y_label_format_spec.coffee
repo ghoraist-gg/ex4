@@ -13,3 +13,4 @@ describe 'Morris.Grid#yLabelFormat', ->
       preUnits: "$"
       yLabelFormat: formatter
     line.yLabelFormat(1500).should.equal "1.5k"
+

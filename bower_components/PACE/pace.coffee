@@ -753,3 +753,4 @@ else
   # Global
   if options.startOnPageLoad
     Pace.start()
+

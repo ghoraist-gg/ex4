@@ -125,3 +125,4 @@ If you have edited code (including **tests** and **translations**) and would lik
 [jq-readme]: https://github.com/jquery/jquery/blob/master/README.md#what-you-need-to-build-your-own-jquery
 [Google JavaScript Style Guide]: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 [Automated Test Readme]: https://github.com/fullcalendar/fullcalendar/wiki/Automated-Tests
+

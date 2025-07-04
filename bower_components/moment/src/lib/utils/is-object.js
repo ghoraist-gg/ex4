@@ -3,3 +3,4 @@ export default function isObject(input) {
     // input != null
     return input != null && Object.prototype.toString.call(input) === '[object Object]';
 }
+

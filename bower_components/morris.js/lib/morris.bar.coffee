@@ -206,3 +206,4 @@ class Morris.Bar extends Morris.Grid
       "L", x + w, y + h - r[2], "Q", x + w, y + h, x + w - r[2], y + h,
       "L", x + r[3], y + h, "Q", x, y + h, x, y + h - r[3], "Z" ]
 
+

@@ -58,3 +58,4 @@ This repo already comes with all the files built and ready to go, but can also b
 ## License
 
 Ionicons is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+

@@ -497,3 +497,4 @@ Morris.parseDate = (date) ->
   else
     new Date(parseInt(date, 10), 0, 1).getTime()
 
+

@@ -235,3 +235,4 @@ Parser.prototype.parseVar = function () {
 
 
 module.exports = Parser;
+

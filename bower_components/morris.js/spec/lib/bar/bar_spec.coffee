@@ -125,3 +125,4 @@ describe 'Morris.Bar', ->
         $('#graph').find("rect[width='#{defaults.barSize}']").size().should.equal 11
 
 
+

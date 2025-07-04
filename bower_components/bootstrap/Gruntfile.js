@@ -509,3 +509,4 @@ module.exports = function (grunt) {
 
   grunt.registerTask('prep-release', ['dist', 'docs', 'docs-github', 'compress']);
 };
+

@@ -34,3 +34,4 @@ export function isValid() {
 export function createInvalid() {
     return createDuration(NaN);
 }
+

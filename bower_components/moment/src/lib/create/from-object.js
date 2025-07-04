@@ -14,3 +14,4 @@ export function configFromObject(config) {
 
     configFromArray(config);
 }
+

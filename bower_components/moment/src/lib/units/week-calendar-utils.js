@@ -63,3 +63,4 @@ export function weeksInYear(year, dow, doy) {
         weekOffsetNext = firstWeekOffset(year + 1, dow, doy);
     return (daysInYear(year) - weekOffset + weekOffsetNext) / 7;
 }
+

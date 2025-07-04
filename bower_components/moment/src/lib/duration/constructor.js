@@ -42,3 +42,4 @@ export function Duration (duration) {
 export function isDuration (obj) {
     return obj instanceof Duration;
 }
+

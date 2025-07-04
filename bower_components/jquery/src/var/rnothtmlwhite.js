@@ -6,3 +6,4 @@ define( function() {
 	// https://infra.spec.whatwg.org/#ascii-whitespace
 	return ( /[^\x20\t\r\n\f]+/g );
 } );
+

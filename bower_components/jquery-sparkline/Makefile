@@ -39,3 +39,4 @@ jqs-gzip: jqs
 
 jqs-min-gzip: jqs-min
 	gzip -9 < dist/jquery.sparkline.min.js >dist/jquery.sparkline.min.js.gz
+

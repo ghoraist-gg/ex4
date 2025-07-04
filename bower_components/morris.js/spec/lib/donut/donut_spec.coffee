@@ -74,3 +74,4 @@ describe 'Morris.Donut', ->
         { label: 'Three', value: 35 }
       ]
       $('#graph').find("path[stroke='#0000ff']").size().should.equal 1
+

@@ -211,3 +211,4 @@ class Morris.DonutSegment extends Morris.EventEmitter
       @seg.animate(path: @path, 150, '<>')
       @arc.animate(opacity: 0, 150, '<>')
       @selected = false
+
